@@ -53,7 +53,7 @@ exports.upload = multer({
       cb(null, 'public') //cb stands for callback 
     },
     filename: function (req, file, cb) {
-      cb(null, file.fieldname + Date.now() + file.originalname)
+      cb(null, file.fieldname + '_' + req.user._id + '-' + file.originalname)
     }
   }),
   //limits:{fileSize: 1000000},
