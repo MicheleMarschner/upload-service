@@ -1,5 +1,7 @@
 # Upload - Service (Microservice)
 
+![Upload Service - picture](./public/repo/picture-upload.png)
+
 ## Goal
 Part of my Microservice architecture where I am creating standalone and reusable programmes. 
 The Upload service is used to upload, validate and store files and to send back the location for further storage as a reference in an independent database. 
