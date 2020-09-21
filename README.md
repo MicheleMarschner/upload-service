@@ -1,6 +1,6 @@
 # Upload - Service (Microservice)
 
-![Upload Service - picture](./public/repo/picture-upload.png)
+![Upload-picture](https://user-images.githubusercontent.com/49597398/93792331-ae8a8000-fc35-11ea-9c6c-b3466f7bf6cf.png)
 
 ## Goal
 Part of my Microservice architecture where I am creating standalone and reusable programmes. 
